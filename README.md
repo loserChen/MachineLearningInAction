@@ -1,13 +1,14 @@
-# Machine Learning In Action
+## Machine Learning In Action
 This repo consists of my practical code referred from 《Machine Learning In Action》.  
 Besides,[this blog](https://blog.csdn.net/c406495762/column/info/16415) gave me a lot of help.  
-Now the algorithms are about:
+### The algorithms
+Each folders have 2 editions which are based sklearn or python:
 - [Adaboost](https://github.com/loserChen/MachineLearningInAction/tree/master/AdaBoost)
 - [Navie Bayes](https://github.com/loserChen/MachineLearningInAction/tree/master/bayes)
 - [Decision Tree](https://github.com/loserChen/MachineLearningInAction/tree/master/decisionTree)
 - [K nearest neighbor](https://github.com/loserChen/MachineLearningInAction/tree/master/knn)
-- [Logistic Regression](https://github.com/loserChen/MachineLearningInAction/tree/master/lr)
-Each folders have 2 editions which are based sklearn or python.  
+- [Logistic Regression](https://github.com/loserChen/MachineLearningInAction/tree/master/lr)  
+### Tips
 Most of code have some Chinese comments to help you to understand algorithms well.  
 Once I make some progress, I will update that in time.  
 If possible, I will try my best to introduce the theory of these basic machine learning algorithms.   
