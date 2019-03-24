@@ -2,7 +2,7 @@
 This repo consists of my practical code referred from 《Machine Learning In Action》.  
 Besides,[this blog](https://blog.csdn.net/c406495762/column/info/16415) gave me a lot of help.  
 Now the algorithms are about adaboost,naive bayes,decision tree,knn,lr.  
-Each folders have 2 eitions which are based sklearn or python.  
+Each folders have 2 editions which are based sklearn or python.  
 Most of codes have some Chinese comments to help you to understand algorithms well.  
 Once I make some progress, I will update that in time.  
 If possible, I will try my best to introduce the theory of these basic machine learning algorithms.   
