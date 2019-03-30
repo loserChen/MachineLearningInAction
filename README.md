@@ -8,7 +8,7 @@ Each folders have 2 editions which are based sklearn or python:
 - [Decision Tree](https://github.com/loserChen/MachineLearningInAction/tree/master/decisionTree)
 - [K nearest neighbor](https://github.com/loserChen/MachineLearningInAction/tree/master/knn)
 - [Logistic Regression](https://github.com/loserChen/MachineLearningInAction/tree/master/lr) 
-- [Linear Regression](https://github.com/loserChen/MachineLearningInAction/tree/master/regression)
+- [Linear Regression](https://github.com/loserChen/MachineLearningInAction/tree/master/Regression)
 - [Support Vector Machine](https://github.com/loserChen/MachineLearningInAction/tree/master/SVM)
 ### Tips
 Most of code have some Chinese comments to help you to understand algorithms well.  
