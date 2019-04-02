@@ -10,6 +10,7 @@ Each folders have 2 editions which are based sklearn or python:
 - [Logistic Regression](https://github.com/loserChen/MachineLearningInAction/tree/master/lr) 
 - [Linear Regression](https://github.com/loserChen/MachineLearningInAction/tree/master/Regression)
 - [Support Vector Machine](https://github.com/loserChen/MachineLearningInAction/tree/master/SVM)
+- [CART](https://github.com/loserChen/MachineLearningInAction/tree/master/CART)
 ### Tips
 Most of code have some Chinese comments to help you to understand algorithms well.  
 Once I make some progress, I will update that in time.  
